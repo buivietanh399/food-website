@@ -13,7 +13,7 @@
     box-sizing: border-box;
     text-decoration: none;
     outline: none; border:none;
-    text-transform: capitalize;
+    text-transform: initial;
     transition: all .2s linear;
 }
 
@@ -24,7 +24,7 @@ html{
     scroll-behavior: smooth;
 }
 
-section{
+section {
     padding:2rem 9%;
 }
 
@@ -592,31 +592,6 @@ header .icons #menu-bars{
     top:-110%;
     opacity:0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
